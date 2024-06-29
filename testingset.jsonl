@@ -1,0 +1,200 @@
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "but yeah, bascially there was a phone call"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "and I thought yeah, this is the right idea"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "but what was impressive was that you actually then just put your head down and did it"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": " well the best thing about all these adventures is"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "we have a community we have events we have"}, {"role": "listener", "reaction": "look to side", "weight": 1}, {"role": "speaker", "content": "interactions with people in a way that I would have thought wouldn't be possible"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}, {"role": "speaker", "content": "so that's the bit that I found really surprising"}, {"role": "listener", "reaction": "looks to side", "weight": 1}, {"role": "speaker", "content": "you know when you go to Bicester"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}, {"role": "speaker", "content": "and you see about three thousand people walk up, you think"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "this is a bit more than just a website"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}, {"role": "speaker", "content": "I'm very proud of that and so should you be"}, {"role": "listener", "reaction": "looks to side", "weight": 1}]}
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "I think we knew"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "we knew what the opportunity was"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}, {"role": "speaker", "content": "our way, our method of getting cars into the marketplace"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "this year 2023 we've launched classifi"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "we're about to launch um Private Sales"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "it was just me on my Todd you know"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}, {"role": "speaker", "content": "consigning a few cars buying a few cars"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "putting them up on the website posting"}, {"role": "listener", "reaction": "nodding/mmhmm", "weight": 1}]}
+// {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "but yeah, bascially there was a phone call"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "and I thought yeah, this is the right idea"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "but what was impressive was that you actually then just put your head down and did it"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": " well the best thing about all these adventures is"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "we have a community we have events we have"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look to side",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "interactions with people in a way that I would have thought wouldn't be possible"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "so that's the bit that I found really surprising"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "looks to side",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "you know when you go to Bicester"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "and you see about three thousand people walk up, you think"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "this is a bit more than just a website"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "I'm very proud of that and so should you be"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "looks to side",
+//         "weight": 1
+//       },
+//     ]
+//   }
+
+//   {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "I think we knew"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "we knew what the opportunity was"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "our way, our method of getting cars into the marketplace"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "this year 2023 we've launched classifi"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "we're about to launch um Private Sales"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "it was just me on my Todd you know"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "consigning a few cars buying a few cars"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "putting them up on the website posting"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "nodding/mmhmm",
+//         "weight": 1
+//       },
+//     ]
+//   }
+  
+
+
+
+
+
+
+
+
+
