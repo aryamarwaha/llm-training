@@ -1,0 +1,186 @@
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "Why are we here, Chris?"}, {"role": "listener", "content": "uh you want to discuss", "reaction": "look into eyes", "weight": 1}, {"role": "listener", "content": "uh what collecting cars is...", "reaction": "look to side", "weight": 1}]}
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "I'm not sure I want to discuss..."}, {"role": "listener", "content": "well well", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "we we know"}, {"role": "listener", "reaction": "mmmhmm/nodding", "weight": 1}, {"role": "speaker", "content": "this but I don't think we've ever chatted about it"}, {"role": "listener", "reaction": "looks to side", "weight": 1}]}
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "no no but actually we therefore we have to go back and remember for me"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "what was one of the first phone calls we had about it"}, {"role": "listener", "reaction": "mmhmm/nodding", "weight": 1}, {"role": "speaker", "content": "which I've written about in the book"}, {"role": "listener", "content": "what chapter is that I haven't gotten to that chapter", "reaction": "looks into eyes", "weight": 1}, {"role": "speaker", "content": "no it's towards the end because"}, {"role": "listener", "content": "you were walking to the oval", "reaction": "looks to side", "weight": 1}, {"role": "speaker", "content": "you and you found me and said you know we're discussing"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "this idea of an you know an online auction product in the UK I think"}, {"role": "listener", "reaction": "mmhmm/nodding", "weight": 1}, {"role": "speaker", "content": "I thought it was great fun and for me"}, {"role": "listener", "content": "that was your take. I said I'm doing this", "reaction": "looks into eyes", "weight": 1}]}
+{"messages": [{"role": "system", "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."}, {"role": "speaker", "content": "no no I think you did say that"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "your memory is more selective than mine"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "you tend to select moments of your outright genius"}, {"role": "listener", "reaction": "look into eyes", "weight": 1}, {"role": "speaker", "content": "whereas I select moments of my failure"}, {"role": "listener", "reaction": "looks to side", "weight": 1}]}
+
+// {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "Why are we here, Chris?"
+//       },
+//       {
+//         "role": "listener",
+//         "content": "uh you want to discuss",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "listener",
+//         "content": "uh what collecting cars is...",
+//         "reaction": "look to side",
+//         "weight": 1
+//       }
+//     ]
+//   }
+
+//   {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "I'm not sure I want to discuss..."
+//       },
+//       {
+//         "role": "listener",
+//         "content": "well well",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "we we know"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "mmmhmm/nodding",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "this but I don't think we've ever chatted about it"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "looks to side",
+//         "weight": 1
+//       },
+//     ]
+//   }  
+
+//   {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "no no but actually we therefore we have to go back and remember for me"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "what was one of the first phone calls we had about it"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "mmhmm/nodding",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "which I've written about in the book"
+//       },
+//       {
+//         "role": "listener",
+//         "content": "what chapter is that I haven't gotten to that chapter",
+//         "reaction": "looks into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "no it's towards the end because"
+//       },
+//       {
+//         "role": "listener",
+//         "content": "you were walking to the oval",
+//         "reaction": "looks to side",
+//         "weight": 1
+//       },
+//       {
+//       "role": "speaker",
+//       "content": "you and you found me and said you know we're discussing",
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       }
+//       {
+//         "role": "speaker",
+//         "content": "this idea of an you know an online auction product in the UK I think"
+//         },
+//         {
+//             "role": "listener",
+//             "reaction": "mmhmm/nodding",
+//             "weight": 1
+//         },
+//         {
+//             "role": "speaker",
+//             "content": "I thought it was great fun and for me"
+//         },
+//         {
+//             "role": "listener",
+//             "content": "that was your take. I said I'm doing this",
+//             "reaction": "looks into eyes",
+//             "weight": 1
+//         }
+//     ]
+//   }    
+
+//   {
+//     "messages": [
+//       {
+//         "role": "system",
+//         "content": "You are an assistant that predicts three different non-verbal reactions: look into eyes, look to the side, or nodding/mmhmm. This response will be based on some input from the speaker, and you will respond as the listener."
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "no no I think you did say that"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "your memory is more selective than mine"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "you tend to select moments of your outright genius"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "look into eyes",
+//         "weight": 1
+//       },
+//       {
+//         "role": "speaker",
+//         "content": "whereas I select moments of my failure"
+//       },
+//       {
+//         "role": "listener",
+//         "reaction": "looks to side",
+//         "weight": 1
+//       },      
+//     ]
+//   }
